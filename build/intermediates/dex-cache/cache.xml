@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/urisala/Documents/AndroidProjects/CameraProcessing/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/urisala/Documents/AndroidProjects/CameraProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec47a28c2fb0bd162c77cf27d48b3caf8c2be371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/urisala/Documents/AndroidProjects/CameraProcessing/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ff2afdd5e3ad65d69954e188f1d63889f54bed3">
+        <dex dex="/Users/urisala/Documents/AndroidProjects/CameraProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6837bf052c555806fcf4dd39314608b559b90278/classes.dex" />
+    </item>
+
+</items>
